@@ -1,5 +1,4 @@
 //CHARACTER CLASS ASSIGNMENT
-
 //Character Class
 class Character {
   //Define Properties
